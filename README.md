@@ -5,7 +5,7 @@
   <tr>
     <td>
       <h3>About Me</h3>
-      <p>I'm a passionate software developer with a keen interest in<br>web development and machine learning. I love exploring<br>new technologies and applying them to solve real-world problems.<br>My current focus is on building a Career Guidance System to help<br>students find their ideal career paths.</p>
+      <p>BTech final year student specializing in machine learning. Enthusiastic<br>about contributing to open-source projects and continuously learning<br>new technologies.</p>
       <ul>
         <li>🔭 I’m currently working on <strong>Career Guidance System</strong></li>
         <li>🌱 I’m currently learning <strong>Web development</strong></li>
