@@ -7,7 +7,7 @@
       <h3>About Me</h3>
       <p>BTech final year student specializing in machine learning. Enthusiastic<br>about contributing to open-source projects and continuously learning<br>new technologies.</p>
       <ul>
-        <li>🔭 I’m currently working on <strong>Career Guidance System</strong></li>
+        <li>🎯 I’m dedicated to continuous learning and growth in tech</li>
         <li>🌱 I’m currently learning <strong>Web development</strong></li>
         <li>📫 How to reach me <strong>vineetha.juttiga@gmail.com</strong></li>
       </ul>
@@ -18,16 +18,14 @@
   </tr>
 </table>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/vinee0606" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/vineetha1214" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
+  <img align="center" src="https://img.icons8.com/?size=100&id=DgvGrC390z9J&format=png&color=000000" alt="CodeChef" height="30" width="40" />
+</a>
   <a href="https://leetcode.com/u/vineetha66/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
@@ -39,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="flask" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -69,4 +67,5 @@
     </td>
   </tr>
 </table>
+
 
