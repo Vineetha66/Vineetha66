@@ -25,8 +25,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/vineetha1214" target="blank">
-    <img align="center" src="https://img.icons8.com/?size=100&id=vAtJFm3hwtQw&format=png&color=000000" alt="CodeChef" height="30" width="40" />
+  <a href="https://www.codechef.com/users/vineetha1214" target="_blank">
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="30" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/vineetha66/" target="blank">
@@ -63,8 +63,12 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-</p>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/>
+  </a>
 
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineetha66&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
